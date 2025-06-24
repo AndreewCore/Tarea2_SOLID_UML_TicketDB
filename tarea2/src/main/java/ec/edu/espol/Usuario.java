@@ -1,4 +1,4 @@
-package ec.edu.espol;
+package src.main.java.ec.edu.espol;
 
 public class Usuario {
     private int idUsu;

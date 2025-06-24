@@ -1,5 +1,5 @@
-package ec.edu.espol;
+package src.main.java.ec.edu.espol;
 
 public interface CanalNotificacion {
-
+    
 }
